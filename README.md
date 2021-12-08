@@ -1,4 +1,4 @@
-# [UPF] Seminar paper - ¿What makes television shows successful? Using linear regression to model success?
+# [UPF] Seminar paper - What makes television shows successful? Using linear regression to model success?
 
 This is a discontinued project. The initial data downloaded from IMDb containing can be found in https://www.imdb.com/interfaces/ under the names "title.basics.tsv.gz" and "title.ratings.tsv.gz"
 
